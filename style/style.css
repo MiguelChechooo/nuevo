@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#loquita{
+    text-align: center;
+}
+
+#tinquetan{
+    text-align: center;
+}
+
+#carros{
+    margin: 25px;
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 25px;
+}
