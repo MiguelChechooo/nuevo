@@ -25,6 +25,18 @@
     flex-wrap: wrap;
 }
 
-.card{
+#tin1{
     margin: 25px;
+    height: 550px;
+    width: 2000px;
+}
+
+#tintin{
+    margin: 25px;
+    padding: 50px;
+}
+
+#vh{
+    background-color: rgb(157, 238, 211);
+
 }
