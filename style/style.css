@@ -8,11 +8,25 @@
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
+    height: 800;
+    width: 00;
 }
 
 #loquita{
     text-align: center;
+    background-color: #B4BCC0 ;
+    justify-content: center;
+    
 }
+
+#comolohacen{
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+
+
 
 #tinquetan{
     text-align: center;
@@ -25,6 +39,54 @@
     flex-wrap: wrap;
 }
 
-.card{
+#tin1{
     margin: 25px;
+    height: 550px;
+    width: 2000px;
+}
+
+#tintin{
+    margin: 25px;
+    padding: 50px;
+    background-color: #CDCDCD;
+}
+
+#vh{
+    background-color: green;
+}
+
+#ayrosalba{
+    height: 70px;
+    width: 300px;
+}
+
+#inimg{
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+}
+
+
+#carousel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    background-color:green;
+    color: black;
+
+}
+
+#info, #mis{
+    margin: 50px;
+}
+
+#vis{
+    margin: 50px;
+    margin-bottom: 100px;
 }
